@@ -6,4 +6,4 @@
 
 ### Displays
 1. HDM and CAVE
-![HDMS](https://tourzy.vn/assets/images/news/thumbnails-vr-ung-dung-vao-tro-choi-result-201901300501450145.jpg)
+![Display devices](https://slidetodoc.com/presentation_image/63adee7aaa9fdd9056a3903de21fde66/image-22.jpg)
