@@ -4,7 +4,7 @@
 2. 3D Stereovision, user dynamic control of viewpoint, and a surrounding experience.
 3. Overwhelming and persistent
 
-### Displays
-1. HDM and CAVE
+### Hardware
+1. Displays: HDM and CAVE
 
 ![Display devices](https://slidetodoc.com/presentation_image/63adee7aaa9fdd9056a3903de21fde66/image-22.jpg)
