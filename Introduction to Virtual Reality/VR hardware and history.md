@@ -12,3 +12,7 @@
 2. Head tracking: Track position and rotation 
 3. Controller: Track postion and rotaion of hand + navigation
 4. In fact, none of the mobile devices currently come with position tracking (head and controller)
+
+# History
+1. VR in the Analogue Age
+2. VR in the Digital Age
