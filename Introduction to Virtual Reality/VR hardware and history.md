@@ -8,5 +8,4 @@
 1. Displays: HDM and CAVE
 
 ![Display devices](https://slidetodoc.com/presentation_image/63adee7aaa9fdd9056a3903de21fde66/image-22.jpg)
-
-2.
+2.s
