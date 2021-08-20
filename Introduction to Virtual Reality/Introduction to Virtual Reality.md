@@ -20,3 +20,11 @@
 # VR Technical
 1. Components: VR display, VR content and VR interaction
 2. Being Someone Else: Proprioception Match ([Be another lab](http://beanotherlab.org/home/work/tmtba/))
+
+# Immersion
+One system is more immersive than another if the first can be used to simulate the second
+### Sensory motor contingency
+1. Set of implicit rules, whereby we use our body to perceive the world across all the different senses.
+2. How you perceive and what you perceive.
+### Three Illusions
+1. 
