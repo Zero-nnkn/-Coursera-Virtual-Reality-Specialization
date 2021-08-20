@@ -27,4 +27,6 @@ One system is more immersive than another if the first can be used to simulate t
 1. Set of implicit rules, whereby we use our body to perceive the world across all the different senses.
 2. How you perceive and what you perceive.
 ### Three Illusions
-1. 
+2. Place illusion
+1. Plausibility illusion
+3. Body ownership illusio
