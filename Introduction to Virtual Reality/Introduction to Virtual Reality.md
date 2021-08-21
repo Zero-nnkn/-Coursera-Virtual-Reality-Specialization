@@ -22,7 +22,7 @@
 2. Being Someone Else: Proprioception Match ([Be another lab](http://beanotherlab.org/home/work/tmtba/))
 
 # Immersion
-One system is more immersive than another if the first can be used to simulate the second.
+One system is more immersive than another if the first can be used to simulate the second.  
 Way to describe the system in itself, it's not describing people's responses.
 ### Sensory motor contingency
 1. Set of implicit rules, whereby we use our body to perceive the world across all the different senses.
