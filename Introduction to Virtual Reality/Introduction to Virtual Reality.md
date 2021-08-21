@@ -30,6 +30,5 @@ Way to describe the system in itself, it's not describing people's responses.
 ### Three Illusions
 2. Place illusion
 1. Plausibility illusion
-3. Body ownership illusio
-
-[Be another lab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781884/)
+3. Body ownership illusio  
+[This is where Prof Mel Slater's theory on the three illusions was first published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781884/)
