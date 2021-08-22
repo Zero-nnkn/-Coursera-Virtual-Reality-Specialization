@@ -39,6 +39,15 @@ Basic Concepts in 3D Computer Graphics:
 1. [Diffuse reflection](https://en.wikipedia.org/wiki/Diffuse_reflection)
 2. [Specular reflection](https://en.wikipedia.org/wiki/Specular_reflection)
 3. [Global illumination](https://docs.unity3d.com/Manual/GIIntro.html)
+
 ### Challenges in creating realistic and believable animations
+
 ### Navigation
 Physical navigation, Walk in place, Virtual navigation, Teleporting.
+
+### Nausea
+1. Simulation sickness
+2. The conflict between information received in the brain from our vestibular system and our visual system
+3. Simulation sickness != Motion sickness
+4. Call by VR?
+5. Haptic Feedback
