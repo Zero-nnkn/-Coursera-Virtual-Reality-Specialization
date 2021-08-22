@@ -32,3 +32,10 @@ Way to describe the system in itself, it's not describing people's responses.
 1. Plausibility illusion
 3. Embodiment illusion: The Pinocchio Illusion, The Rubber Hand Illusion (proprioception)
 [This is where Prof Mel Slater's theory on the three illusions was first published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781884/)
+
+# Challenges in VR
+### Challenges in rendering realistic looking graphics
+Basic Concepts in 3D Computer Graphics:  
+1. [Diffuse reflection](https://en.wikipedia.org/wiki/Diffuse_reflection)
+2. [Specular reflection](https://en.wikipedia.org/wiki/Specular_reflection)
+3. [Global illumination](https://docs.unity3d.com/Manual/GIIntro.html  )
