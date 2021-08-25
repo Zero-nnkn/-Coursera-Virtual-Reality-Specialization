@@ -50,4 +50,4 @@ Physical navigation, Walk in place, Virtual navigation, Teleporting.
 2. The conflict between information received in the brain from our vestibular system and our visual system
 3. Simulation sickness != Motion sickness
 4. Call by VR?
-5. Haptic Feedback
+5. Haptic Feedback.
